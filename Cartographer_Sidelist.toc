@@ -1,0 +1,24 @@
+## Interface: 20400
+## Id: $Id: Cartographer_Sidelist.toc 65877 2008-03-25 23:44:59Z sekuyo $
+## Title: Cartographer_Sidelist |cff7fff7f -Ace2-|r
+## Notes: Show list of map notes in current zone
+## Author: Sekuyo
+## Version: (pre-alpha)
+## X-Category: Map
+## X-eMail: sekuyo13@gmail.com
+## X-Embeds: Ace2, Babble-2.2
+## X-License: GPL v2 or later
+
+## DefaultState: Enabled
+## OptionalDeps: Cartographer,Cartographer_Notes
+
+libs\AceConsole-2.0\AceConsole-2.0.lua
+libs\AceEvent-2.0\AceEvent-2.0.lua
+libs\AceHook-2.1\AceHook-2.1.lua
+libs\AceLibrary\AceLibrary.lua
+libs\AceLocale-2.2\AceLocale-2.2.lua
+libs\Babble-Fish-2.2\Babble-Fish-2.2.lua
+libs\Babble-Herbs-2.2\Babble-Herbs-2.2.lua
+libs\Babble-Ore-2.2\Babble-Ore-2.2.lua
+
+Cartographer_Sidelist.lua

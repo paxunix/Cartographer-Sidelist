@@ -1,0 +1,11 @@
+<!--
+$Id: Bindings.xml 56919 2007-12-13 06:30:59Z sekuyo $
+-->
+
+<Bindings>
+
+  <Binding name="CARTOGRAPHER_SIDELIST_TOGGLE" header="CARTOGRAPHER_SIDELIST">
+    Cartographer_Sidelist:ToggleSidelist();
+  </Binding>
+
+</Bindings>
